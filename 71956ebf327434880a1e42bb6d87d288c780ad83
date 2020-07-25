@@ -1,0 +1,1 @@
+{"jobID":"75878aff-958f-ee03-bea3-7ff959ee6361","spec":{"type":"policy","cause":{"Message":"","User":"Rick Spurgeon \u003crspurgeon@users.noreply.github.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"automated":"true"},"remove":{}}}},"result":null}
